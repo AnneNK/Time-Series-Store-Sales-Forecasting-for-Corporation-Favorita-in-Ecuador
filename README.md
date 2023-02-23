@@ -22,7 +22,7 @@ Evaluation is done using the Root Mean Square Log Error (RMSLE).
 An excellent model should have RMSLE of 0.2 or less.
 
 
-
+Read more : [Medium Article](https://medium.com/@anitathewriter17/time-series-regression-store-sales-forecasting-for-corporation-favorita-in-ecuador-2774ce42c79b) 
 
 
 # Author
